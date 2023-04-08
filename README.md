@@ -9,4 +9,4 @@ IPI (Interested Party Information) Number merupakan identitas internasional dari
 Setiap IPI number dapat memiliki banyak lagu. Namun setiap lagu hanya memiliki 1 IPI number. Pada tabel ini, setiap songwriter dan IPI number memiliki 5 lagu, dimana dari setiap lagu akan ditampilkan judul lagu dan tahun lagu tersebut diciptakan.
 
 ## Screenshot
-<img src="table screenshot.png" alt="Build Status">
+<img src="table screenshot.png" alt="Screenshot">
